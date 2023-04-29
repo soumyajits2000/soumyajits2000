@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/soumyajit.14/)
 [![Telegram Badge](https://img.shields.io/badge/-Quora-9F2100?style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Soumyajit-Samal-2)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=soumyajits2000.soumyajits2000)
+### Glad to see you here!
 <img align="right" alt="GIF" src="pencil-01.png" width="408" height="318" />
 I am pursuing my Integrated Master in science degree from IISER, Berhampur with a major in Physical Science and minor in Computer Science. I am a research nerd with an avid interest in quantum devices. 
 
