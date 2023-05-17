@@ -1,3 +1,4 @@
+<img alt="GIF" src="cover-01.png" />
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Soumyajit Samal</a> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumyajitsamal/)
